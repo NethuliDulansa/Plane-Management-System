@@ -1,0 +1,7 @@
+-----Ticket Information-----
+Seat: D14
+Price: £180.0
+-----Personal Information-----
+Name: niki
+Surname: udawatte
+Email: niki18@gmail.com
